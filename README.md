@@ -17,11 +17,8 @@ This project is a **web application** that extracts and validates structured dat
 - **Git & GitHub** – Version control.  
 
 ## **How to Run**  
-1. **Clone the repository:**  
-   ```sh
-   git clone https://github.com/{YourUsername}/alu_regex-data-extraction-{YourUsername}.git
-   ```
-2. **Open `regex.html`** in a browser.  
+1. **Clone the repository**  
+2. **Open a form in a browser.**  
 3. **Enter data** in the form fields to see validation in action.  
 4. **Submit** to check for errors.  
 
